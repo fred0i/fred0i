@@ -1,9 +1,5 @@
-# LAINEZ DEL PEZO FREDDY EZEQUIEL
+# UNIVERSIDAD ESTATAL PENINSULA DE SANTA ELENA
 
-🎓 Estudiante universitario.
-
-💻 Interesado en programación, redes y tecnología.
-
-🚀 Actualmente estoy aprendiendo Git y GitHub para el control de versiones.
-
+💻 14/6/2026
+🎓 LAINEZ DEL PEZO FREDDY EZEQUIEL.
 📫 GitHub: @fred0i
